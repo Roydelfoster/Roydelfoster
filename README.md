@@ -2,7 +2,7 @@
 
 <h2>👨‍💻Cybersecurity Project:</h2>
 
-- <b>Building a SOC + Honeynet in Azure (Live Traffic)d </b>
+- <b>Building a Security Operations Center, and Honeynet in Azure (Live Traffic) </b>
   - (https://github.com/Roydelfoster/Cloud-Soc-HoneyNetNet))
   
 <h2> 🤳 Connect with me:</h2>
