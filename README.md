@@ -1,8 +1,8 @@
-<h1>Hi, I'm Roydel! <br/><a href="https://www.linkedin.com/in/roydel/">Cybersecurity Professional</a>, 
+<h1>Hi, I'm Roydel! <br/><a href="https://www.linkedin.com/in/roydel/">Cybersecurity Professional | Soc Analyst</a>, 
 
-<h2>👨‍💻Cybersecurity Project | Soc Analyst :</h2>
+<h2>👨‍💻Cybersecurity Project:</h2>
 
-- <b>Creating a live Soc honetnet in Azure cloud </b>
+- <b>Building a SOC + Honeynet in Azure (Live Traffic)d </b>
   - (https://github.com/Roydelfoster/Cloud-Soc-HoneyNetNet))
   
 <h2> 🤳 Connect with me:</h2>
