@@ -1,6 +1,6 @@
 <h1>Hi, I'm Roydel! <br/><a href="https://www.linkedin.com/in/roydel/">Cybersecurity Professional</a>, 
 
-<h2>👨‍💻Cybersecurity Project:</h2>
+<h2>👨‍💻Cybersecurity Project | Soc Analyst :</h2>
 
 - <b>Creating a live Soc honetnet in Azure cloud </b>
   - (https://github.com/Roydelfoster/Cloud-Soc-HoneyNetNet))
